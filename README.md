@@ -20,3 +20,7 @@ As técnicas de análise empregadas incluem:
 A relevância e atualidade deste estudo são evidentes no contexto das discussões globais sobre a promoção da **igualdade de gênero** e a **redução das desigualdades socioeconômicas**, dois dos principais **Objetivos de Desenvolvimento Sustentável (ODS)** da **ONU**.
 
 Este estudo contribui ao campo ao propor uma abordagem quantitativa e comparativa, que evidencia padrões gerais e identifica limitações importantes nas análises tradicionais. O impacto potencial desta análise está na geração de evidências que mostram como a diminuição da desigualdade econômica pode se relacionar com o aumento da igualdade de gênero no mercado de trabalho, trazendo insights que poderiam embasar políticas públicas e iniciativas voltadas à promoção de maior equidade econômica e de gênero.
+
+## **Vídeo de Apresentação**
+
+[Link para o vídeo](https://youtu.be/0ySIzn57VqU)
